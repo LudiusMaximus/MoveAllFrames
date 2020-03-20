@@ -1,0 +1,12 @@
+## Interface: 80300
+## Title: MoveAllFrames
+## Author: LudiusMaximus
+## Notes: An addon to move all frames accessible via the framestack UI.
+## RequiredDeps:
+## Version: 1.0
+## X-Donate: PayPal:ludiusmaximus@gmail.com
+## X-License: The MIT License (MIT)
+## X-Category: Miscellaneous
+
+frameLists.lua
+main.lua
